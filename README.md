@@ -9,7 +9,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - 
 <h2>🗒️ Certifications:</h2>
-- [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- [AI Security and Govance](https://education.securiti.ai/verification/1451E3828-1451E3697-13EFA1AD0/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
