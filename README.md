@@ -6,14 +6,14 @@
   - [SIEM / IDR ](https://github.com/7MONA-ZE/Wasah-Home-Lab/blob/main/README.md)
   - 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
   - 
 <h2>🗒️ Certifications:</h2>
-- [AI Security and Govance](https://education.securiti.ai/verification/1451E3828-1451E3697-13EFA1AD0/)
+- [AI Security and Governance](https://education.securiti.ai/verification/1451E3828-1451E3697-13EFA1AD0/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How to get into Cybersecurity Starting From Zero]()
 
 
 <h2> 🤳 Connect with me:</h2>
